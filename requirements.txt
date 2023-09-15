@@ -1,7 +1,8 @@
 numpy
 matplotlib
 pandas
-sklearn
+scikit-learn
+keras
 
 qiskit
 cirq
