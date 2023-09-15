@@ -2,7 +2,9 @@ numpy
 matplotlib
 pandas
 scikit-learn
+tensorflow
 keras
+torchvision
 
 qiskit
 cirq
