@@ -4,7 +4,6 @@ pandas
 scikit-learn
 tensorflow
 keras
-torchvision
 
 qiskit
 cirq
